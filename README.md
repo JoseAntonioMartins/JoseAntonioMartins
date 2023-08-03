@@ -1,6 +1,6 @@
 ### Olá!, eu sou o Jose Antonio Martins
 
-- Hoje estou no ultimo ano no curso de Ciências da computação pela Universidade Estácio de Sá.
+- Hoje estou no último ano no curso de Ciências de Dados pela Universidade Estácio de Sá.
 - Fiz o curso de Introdução à Ciências da Computação com Python Parte 1 pela Universidade de São Paulo.
 - No momento, estou fazendo o CS50P, Introduction to Progamming Whit Python, Harvardx
 - Estudando Python 
