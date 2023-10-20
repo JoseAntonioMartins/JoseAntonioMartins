@@ -8,18 +8,18 @@
 - Estudando Python 
 ## Minha Biografia 
 ### Um pouco  sobre mim!
-***
+
  👋 Olá, sou ANTÔNIO (José Antônio)
 
-Começei a carreira profissional em um campo completamente diferente, mas sempre busquei novos desafios, o que está me levando uma transformação de carreira notável após os 50 anos. 
+*Começei a carreira profissional em um campo completamente diferente, mas sempre busquei novos desafios, o que está me levando uma transformação de carreira notável após os 50 anos*. 
 
-Após décadas de trabalho em uma área distinta, decidi seguir minha paixão pela tecnologia . Me matriculei no curso de CIÊNCIAS DE DADOS na Universidade Estácio de Sá, mergulhando de cabeça no aprendizado de programação, desenvolvimento de software e administração de sistemas, tudo isso em uma idade em que muitos considerariam aposentadoria. 
+*Após décadas de trabalho em uma área distinta, decidi seguir minha paixão pela tecnologia . Me matriculei no curso de CIÊNCIAS DE DADOS na Universidade Estácio de Sá, mergulhando de cabeça no aprendizado de programação, desenvolvimento de software e administração de sistemas, tudo isso em uma idade em que muitos considerariam aposentadoria*. 
 
-Com uma ética de trabalho inabalável, enfrentando o desafio de aprender novas habilidades e adquirir conhecimentos técnicos avançados. Estou a poucos passos de chegar ao objetivo  final .
-Minha capacidade de adaptação e habilidades técnicas sólidas  me ajudará a ter sucesso em uma  nova carreira.
+*Com uma ética de trabalho inabalável, enfrentando o desafio de aprender novas habilidades e adquirir conhecimentos técnicos avançados. Estou a poucos passos de chegar ao objetivo  final*.
+*Minha capacidade de adaptação e habilidades técnicas sólidas  me ajudará a ter sucesso em uma  nova carreira*.
 
-Espero ser inspiração para alguém que busca fazer uma transição de carreira bem-sucedida para a área de TI  ou para outras áreas após os 50 anos, provando que nunca é tarde demais para seguir sua paixão e alcançar o sucesso em um novo campo de trabalho.
-***
+*Espero ser inspiração para alguém que busca fazer uma transição de carreira bem-sucedida para a área de TI  ou para outras áreas após os 50 anos, provando que nunca é tarde demais para seguir sua paixão e alcançar o sucesso em um novo campo de trabalho*.
+
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAntonioMartins&show_icons=true&theme=dracula)
 
