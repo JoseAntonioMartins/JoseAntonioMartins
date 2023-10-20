@@ -8,7 +8,7 @@
 - Estudando Python 
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAntonioMartins&show_icons=true&theme=dracula)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonio_dev&show_icons=true&theme=dracula)
 
  ## Tecnologias que uso no dia dia:
  
