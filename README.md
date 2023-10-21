@@ -21,7 +21,7 @@
 *Espero ser inspiração para alguém que busca fazer uma transição de carreira bem-sucedida para a área de TI  ou para outras áreas após os 50 anos, provando que nunca é tarde demais para seguir sua paixão e alcançar o sucesso em um novo campo de trabalho*.
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAntonioMartins&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseAntonioMartins&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
  ## Tecnologias que uso no dia dia:
  
