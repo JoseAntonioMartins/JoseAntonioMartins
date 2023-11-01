@@ -21,7 +21,7 @@
 *Espero ser inspiração para alguém que busca fazer uma transição de carreira bem-sucedida para a área de TI  ou para outras áreas após os 50 anos, provando que nunca é tarde demais para seguir sua paixão e alcançar o sucesso em um novo campo de trabalho*.
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseAntonioMartins&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF),<img src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" min-width="400px" max-width="400px" width="400px" align="right">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseAntonioMartins&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF),<img src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" min-width="600px" max-width="400px" width="380px" align="right">
 
 
  ## Tecnologias que uso no dia dia:
