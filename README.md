@@ -1,4 +1,5 @@
-<img src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" min-width="400px" max-width="600px" width="600px" align="right">
+<img src="https://github.com/JoseAntonioMartins/JoseAntonioMartins/assets/127061347/69af8c12-e346-4496-9030-f73b219436cd" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 ### Olá!, eu sou Jose Antonio Martins
 
@@ -20,7 +21,8 @@
 *Espero ser inspiração para alguém que busca fazer uma transição de carreira bem-sucedida para a área de TI  ou para outras áreas após os 50 anos, provando que nunca é tarde demais para seguir sua paixão e alcançar o sucesso em um novo campo de trabalho*.
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseAntonioMartins&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoseAntonioMartins&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF),<img src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" min-width="400px" max-width="400px" width="400px" align="right">
+
 
  ## Tecnologias que uso no dia dia:
  
@@ -44,7 +46,7 @@
 [![Discord](https://img.shields.io/badge/Discord-yelow?style=for-the-badge&logo=discord)](https://https://discord.com/channels/@antonio_dev/)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/@JoseAntonio_dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAntonioMartins&hide_progress=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAntonioMartins&hide_progress=true), <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97841160/263562401-9669836f-60c9-4239-87bb-5d8f7d60f008.png" min-width="400px" max-width="400px" width="400px" align="right"> 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoseAntonioMartins&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
