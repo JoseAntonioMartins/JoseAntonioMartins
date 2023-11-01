@@ -1,4 +1,4 @@
-<img src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://s3-nftrend-storage.s3.sa-east-1.amazonaws.com/wp-content/uploads/2022/01/03122437/pixel-jeff-matrix-s.gif" min-width="400px" max-width="600px" width="600px" align="right">
 
 ### Olá!, eu sou Jose Antonio Martins
 
