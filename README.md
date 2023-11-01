@@ -45,6 +45,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-yelow?style=for-the-badge&logo=discord)](https://https://discord.com/channels/@antonio_dev/)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/@JoseAntonio_dev)
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAntonioMartins&hide_progress=true), <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97841160/263562401-9669836f-60c9-4239-87bb-5d8f7d60f008.png" min-width="400px" max-width="400px" width="400px" align="right"> 
 
