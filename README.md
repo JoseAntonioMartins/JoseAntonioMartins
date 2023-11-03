@@ -1,12 +1,4 @@
 <img src="https://github.com/JoseAntonioMartins/JoseAntonioMartins/assets/127061347/69af8c12-e346-4496-9030-f73b219436cd" min-width="400px" max-width="400px" width="400px" align="right">
-
-
-### Olá!, eu sou Jose Antonio Martins
-
-- Hoje estou no último ano no curso de Ciências de Dados pela Universidade Estácio de Sá.
-- Fiz o curso de Introdução à Ciências da Computação com Python Parte 1 pela Universidade de São Paulo.
-- Estudando Python, JavaScript, Css, HTML
-## Minha Biografia 
 ### Um pouco  sobre mim!
 
  👋 Olá, sou ANTÔNIO (José Antônio)
